@@ -2,7 +2,7 @@
 
 #### Frontend:      <a href="">Repository</a>
 
-#### Server:        <a href="">Heroku</a>
+#### Server:        <a href="https://ahj-8-2-sse-ws-sergius.herokuapp.com/">Heroku</a>
 
 ---
 
