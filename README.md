@@ -1,8 +1,8 @@
-#### Deployment:  <a href="">Github Pages</a>
+#### Deployment:    <a href="">Github Pages</a>
 
-#### Frontend:  <a href="">Repository</a>
+#### Frontend:      <a href="">Repository</a>
 
-#### Server:  <a href="">Heroku</a>
+#### Server:        <a href="">Heroku</a>
 
 ---
 
