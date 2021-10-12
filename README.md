@@ -1,6 +1,6 @@
 #### Deployment:    <a href="">Github Pages</a>
 
-#### Frontend:      <a href="">Repository</a>
+#### Frontend:      <a href="https://github.com/Sergius92739/ahj-8.2-sse-ws_frontend">Repository</a>
 
 #### Server:        <a href="https://ahj-8-2-sse-ws-sergius.herokuapp.com/">Heroku</a>
 
