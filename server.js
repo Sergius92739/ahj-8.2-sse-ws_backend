@@ -20,5 +20,4 @@ app.use(router());
 
 const server = http.createServer(app.callback());
 server.listen(port);
-console.log(`server is started on port ${port}`);
-console.log('http://localhost:7070')
+console.log(`server started on port ${port}`);
